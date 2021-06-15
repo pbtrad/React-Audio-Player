@@ -1,3 +1,7 @@
+How to Build a Custom Audio Player in React tutorial from Self Teach Me https://www.youtube.com/watch?v=sqpg1qzJCGQ&ab_channel=SelfTeachMeSelfTeachMe
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
